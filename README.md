@@ -2,4 +2,4 @@
 
 Just an normal Websocket
 
-Im soon making this into a bot the websocket will connect to the bot.
+This works through webhook, if you want a websocket that connects through discord this is for you!
